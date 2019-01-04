@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Paste Line Above">
+      <action id="EditorUp" />
+      <action id="EditorLineEnd" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
