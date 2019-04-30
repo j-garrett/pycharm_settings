@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="81cd616d-7bd8-4d3c-bc31-1b25b5124e0c" name="Luigi Dev Box" url="http://dev78-uswest1adevc">
-        <fileTransfer host="dev78-uswest1adevc" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/nail/home/jgarrett" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
