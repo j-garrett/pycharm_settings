@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="6f0791ec-ea4f-45d9-a8e0-5050cc1cbf03" name="Luigi Dev Box" url="http://dev78-uswest1adevc">
-        <fileTransfer host="dev78-uswest1adevc" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/nail/home/jgarrett" accessType="SFTP" keyPair="true">
+        <fileTransfer host="dev78-uswest1adevc" port="22" rootFolder="/nail/home/jgarrett" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
