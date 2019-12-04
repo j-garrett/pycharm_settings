@@ -18,6 +18,7 @@
     <mask>*.yaml</mask>
     <mask>*.txt</mask>
     <mask>*.py</mask>
+    <mask>*.test.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
